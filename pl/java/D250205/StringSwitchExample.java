@@ -1,4 +1,4 @@
-package pl.java.stringswitch;
+package pl.java.D250205;
 
 public class StringSwitchExample {
     public static void main(String[] args) {

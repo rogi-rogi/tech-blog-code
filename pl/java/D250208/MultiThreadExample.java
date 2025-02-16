@@ -1,4 +1,4 @@
-package pl.java.thread;
+package pl.java.D250208;
 
 public class MultiThreadExample {
     public static void main(String[] args) {
