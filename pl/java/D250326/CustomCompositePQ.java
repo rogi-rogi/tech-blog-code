@@ -17,7 +17,5 @@ public class CustomCompositePQ {
 
         System.out.println(Arrays.deepToString(customComposite.toArray()));
         // 출력 : [[5, 20], [3, 20], [1, 20], [3, 100], [2, 30]]
-
-
     }
 }
